@@ -9,6 +9,6 @@ beste website: [t3n](https://t3n.de/)
 
 1. First
 2. Second
-  2.1 Second1
+2.1 Second1
 
 ![DS Lifecycle](Download.png)
